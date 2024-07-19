@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="text_currency_my">Текущая валюта</string>
+    <string name="text_convert_spiner_first">Целевая валюта</string>
+    <string name="how_much">Сколько</string>
+    <string name="text_start_convert">Сконвертировать</string>
+    <string name="text_error_empty_currency_value">Поле количество должно быть заполнено</string>
+    <string name="text_error_currency_in_what">Должна быть выбрана - Текущая валюта</string>
+    <string name="text_error_currency_convert">Должна быть выбрана - Целевая валюта</string>
+</resources>
